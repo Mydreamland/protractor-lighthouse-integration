@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "allowUnusedLabels": false,
+    "baseUrl": ".",
+    "declaration": false,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "outDir": "tmp",
+    "removeComments": false,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "mapRoot": "tmp",
+    "target": "es6",
+    "typeRoots": ["./node_modules/@types"],
+    "types": ["node"]
+  },
+  "exclude": ["node_modules", "typescript"]
+}

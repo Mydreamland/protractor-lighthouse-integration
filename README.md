@@ -28,4 +28,4 @@ Above commands will run the spec file and generate Lighthouse report as below:
 
 Here is the HTML report out of it:
 
-![extensionscreen](./docs/lighthouse_report.png)
+![extensionscreen](./docs/lighthouse_report.PNG)
